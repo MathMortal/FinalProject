@@ -15,6 +15,18 @@
 		CE1C03F02BCB12310068D52E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE1C03EE2BCB12310068D52E /* LaunchScreen.storyboard */; };
 		CE1C03FC2BCB3D620068D52E /* pexels-eberhard-grossgasteiger-2088170.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C03FB2BCB3D620068D52E /* pexels-eberhard-grossgasteiger-2088170.jpg */; };
 		CE1C03FE2BCB3E860068D52E /* pexels-eberhard-grossgasteiger-2088205.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C03FD2BCB3E860068D52E /* pexels-eberhard-grossgasteiger-2088205.jpg */; };
+		CE1C04002BCB4F6C0068D52E /* OIP.v-4U9-YEq5WfQ04HB2Zh2AHaE8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C03FF2BCB4F6C0068D52E /* OIP.v-4U9-YEq5WfQ04HB2Zh2AHaE8.jpeg */; };
+		CE1C04022BCB52E60068D52E /* zara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04012BCB52E50068D52E /* zara.jpg */; };
+		CE1C04042BCB53B60068D52E /* R.10c03ab48796bb93e94caab6e5bfc564.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04032BCB53B60068D52E /* R.10c03ab48796bb93e94caab6e5bfc564.jpeg */; };
+		CE1C04062BCB54C10068D52E /* R.b7999ad1b2eae2d3329f3de63e79fb4e.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04052BCB54C10068D52E /* R.b7999ad1b2eae2d3329f3de63e79fb4e.jpeg */; };
+		CE1C040A2BCB5B520068D52E /* TH-boutique-Santa-Fe-1-scaled-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04092BCB5B520068D52E /* TH-boutique-Santa-Fe-1-scaled-1.jpg */; };
+		CE1C040F2BCC54FA0068D52E /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C040E2BCC54FA0068D52E /* WebViewController.swift */; };
+		CE1C04122BCC5AFD0068D52E /* LevisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C04112BCC5AFD0068D52E /* LevisViewController.swift */; };
+		CE1C04142BCC5C350068D52E /* THViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C04132BCC5C350068D52E /* THViewController.swift */; };
+		CE1C04162BCC5C550068D52E /* HolisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C04152BCC5C550068D52E /* HolisterViewController.swift */; };
+		CE1C04182BCC5C6B0068D52E /* GAPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C04172BCC5C6B0068D52E /* GAPViewController.swift */; };
+		CE1C041A2BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04192BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg */; };
+		CE1C041C2BCC6A820068D52E /* OrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C041B2BCC6A820068D52E /* OrderViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +40,19 @@
 		CE1C03F12BCB12310068D52E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE1C03FB2BCB3D620068D52E /* pexels-eberhard-grossgasteiger-2088170.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pexels-eberhard-grossgasteiger-2088170.jpg"; sourceTree = "<group>"; };
 		CE1C03FD2BCB3E860068D52E /* pexels-eberhard-grossgasteiger-2088205.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pexels-eberhard-grossgasteiger-2088205.jpg"; sourceTree = "<group>"; };
+		CE1C03FF2BCB4F6C0068D52E /* OIP.v-4U9-YEq5WfQ04HB2Zh2AHaE8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "OIP.v-4U9-YEq5WfQ04HB2Zh2AHaE8.jpeg"; sourceTree = "<group>"; };
+		CE1C04012BCB52E50068D52E /* zara.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zara.jpg; sourceTree = "<group>"; };
+		CE1C04032BCB53B60068D52E /* R.10c03ab48796bb93e94caab6e5bfc564.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = R.10c03ab48796bb93e94caab6e5bfc564.jpeg; sourceTree = "<group>"; };
+		CE1C04052BCB54C10068D52E /* R.b7999ad1b2eae2d3329f3de63e79fb4e.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = R.b7999ad1b2eae2d3329f3de63e79fb4e.jpeg; sourceTree = "<group>"; };
+		CE1C04092BCB5B520068D52E /* TH-boutique-Santa-Fe-1-scaled-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "TH-boutique-Santa-Fe-1-scaled-1.jpg"; sourceTree = "<group>"; };
+		CE1C040B2BCB7C2C0068D52E /* FinalProject.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FinalProject.entitlements; sourceTree = "<group>"; };
+		CE1C040E2BCC54FA0068D52E /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		CE1C04112BCC5AFD0068D52E /* LevisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevisViewController.swift; sourceTree = "<group>"; };
+		CE1C04132BCC5C350068D52E /* THViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = THViewController.swift; sourceTree = "<group>"; };
+		CE1C04152BCC5C550068D52E /* HolisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HolisterViewController.swift; sourceTree = "<group>"; };
+		CE1C04172BCC5C6B0068D52E /* GAPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GAPViewController.swift; sourceTree = "<group>"; };
+		CE1C04192BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg; sourceTree = "<group>"; };
+		CE1C041B2BCC6A820068D52E /* OrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +85,8 @@
 		CE1C03E22BCB12300068D52E /* FinalProject */ = {
 			isa = PBXGroup;
 			children = (
+				CE1C04102BCC5AD40068D52E /* WebviewController */,
+				CE1C040B2BCB7C2C0068D52E /* FinalProject.entitlements */,
 				CE1C03FA2BCB3ADF0068D52E /* Controllers */,
 				CE1C03F92BCB12690068D52E /* Assets */,
 				CE1C03F82BCB125F0068D52E /* Database */,
@@ -77,6 +104,12 @@
 		CE1C03F72BCB12500068D52E /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				CE1C04092BCB5B520068D52E /* TH-boutique-Santa-Fe-1-scaled-1.jpg */,
+				CE1C04052BCB54C10068D52E /* R.b7999ad1b2eae2d3329f3de63e79fb4e.jpeg */,
+				CE1C04032BCB53B60068D52E /* R.10c03ab48796bb93e94caab6e5bfc564.jpeg */,
+				CE1C04192BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg */,
+				CE1C04012BCB52E50068D52E /* zara.jpg */,
+				CE1C03FF2BCB4F6C0068D52E /* OIP.v-4U9-YEq5WfQ04HB2Zh2AHaE8.jpeg */,
 				CE1C03FD2BCB3E860068D52E /* pexels-eberhard-grossgasteiger-2088205.jpg */,
 				CE1C03FB2BCB3D620068D52E /* pexels-eberhard-grossgasteiger-2088170.jpg */,
 			);
@@ -101,8 +134,21 @@
 			isa = PBXGroup;
 			children = (
 				CE1C03E72BCB12300068D52E /* ViewController.swift */,
+				CE1C041B2BCC6A820068D52E /* OrderViewController.swift */,
 			);
 			path = Controllers;
+			sourceTree = "<group>";
+		};
+		CE1C04102BCC5AD40068D52E /* WebviewController */ = {
+			isa = PBXGroup;
+			children = (
+				CE1C040E2BCC54FA0068D52E /* WebViewController.swift */,
+				CE1C04112BCC5AFD0068D52E /* LevisViewController.swift */,
+				CE1C04132BCC5C350068D52E /* THViewController.swift */,
+				CE1C04152BCC5C550068D52E /* HolisterViewController.swift */,
+				CE1C04172BCC5C6B0068D52E /* GAPViewController.swift */,
+			);
+			path = WebviewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,11 +209,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE1C04022BCB52E60068D52E /* zara.jpg in Resources */,
 				CE1C03F02BCB12310068D52E /* LaunchScreen.storyboard in Resources */,
+				CE1C04042BCB53B60068D52E /* R.10c03ab48796bb93e94caab6e5bfc564.jpeg in Resources */,
 				CE1C03FC2BCB3D620068D52E /* pexels-eberhard-grossgasteiger-2088170.jpg in Resources */,
+				CE1C040A2BCB5B520068D52E /* TH-boutique-Santa-Fe-1-scaled-1.jpg in Resources */,
 				CE1C03FE2BCB3E860068D52E /* pexels-eberhard-grossgasteiger-2088205.jpg in Resources */,
+				CE1C041A2BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg in Resources */,
 				CE1C03ED2BCB12310068D52E /* Assets.xcassets in Resources */,
+				CE1C04002BCB4F6C0068D52E /* OIP.v-4U9-YEq5WfQ04HB2Zh2AHaE8.jpeg in Resources */,
 				CE1C03EB2BCB12300068D52E /* Main.storyboard in Resources */,
+				CE1C04062BCB54C10068D52E /* R.b7999ad1b2eae2d3329f3de63e79fb4e.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,9 +230,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE1C04162BCC5C550068D52E /* HolisterViewController.swift in Sources */,
 				CE1C03E82BCB12300068D52E /* ViewController.swift in Sources */,
 				CE1C03E42BCB12300068D52E /* AppDelegate.swift in Sources */,
 				CE1C03E62BCB12300068D52E /* SceneDelegate.swift in Sources */,
+				CE1C040F2BCC54FA0068D52E /* WebViewController.swift in Sources */,
+				CE1C04182BCC5C6B0068D52E /* GAPViewController.swift in Sources */,
+				CE1C04122BCC5AFD0068D52E /* LevisViewController.swift in Sources */,
+				CE1C04142BCC5C350068D52E /* THViewController.swift in Sources */,
+				CE1C041C2BCC6A820068D52E /* OrderViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,6 +383,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FinalProject/FinalProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -352,6 +411,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FinalProject/FinalProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;

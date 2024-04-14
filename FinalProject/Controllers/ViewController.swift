@@ -8,6 +8,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBAction func unwindToViewController(segue: UIStoryboardSegue) {
+        print("Unwind to View Controller")
+    }
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
