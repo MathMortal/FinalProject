@@ -27,6 +27,11 @@
 		CE1C04182BCC5C6B0068D52E /* GAPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C04172BCC5C6B0068D52E /* GAPViewController.swift */; };
 		CE1C041A2BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04192BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg */; };
 		CE1C041C2BCC6A820068D52E /* OrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C041B2BCC6A820068D52E /* OrderViewController.swift */; };
+		CE1C041E2BCC950B0068D52E /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C041D2BCC950B0068D52E /* RegisterViewController.swift */; };
+		CE1C04202BCC95200068D52E /* RecommdationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1C041F2BCC95200068D52E /* RecommdationViewController.swift */; };
+		CE1C04232BCCA54F0068D52E /* OIP.hrBWnxXHr6UCj4azHpTTNQDxEs.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04222BCCA54F0068D52E /* OIP.hrBWnxXHr6UCj4azHpTTNQDxEs.jpeg */; };
+		CE1C04252BCCA5580068D52E /* OIP.dNZYCJGxEU-ua1Us6yb-swAAAA.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04242BCCA5580068D52E /* OIP.dNZYCJGxEU-ua1Us6yb-swAAAA.jpeg */; };
+		CE1C04272BCCA55F0068D52E /* OIP.ebkgTVWEs4KvqouyecxCngDxEs.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = CE1C04262BCCA55F0068D52E /* OIP.ebkgTVWEs4KvqouyecxCngDxEs.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +58,11 @@
 		CE1C04172BCC5C6B0068D52E /* GAPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GAPViewController.swift; sourceTree = "<group>"; };
 		CE1C04192BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg; sourceTree = "<group>"; };
 		CE1C041B2BCC6A820068D52E /* OrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewController.swift; sourceTree = "<group>"; };
+		CE1C041D2BCC950B0068D52E /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
+		CE1C041F2BCC95200068D52E /* RecommdationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommdationViewController.swift; sourceTree = "<group>"; };
+		CE1C04222BCCA54F0068D52E /* OIP.hrBWnxXHr6UCj4azHpTTNQDxEs.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OIP.hrBWnxXHr6UCj4azHpTTNQDxEs.jpeg; sourceTree = "<group>"; };
+		CE1C04242BCCA5580068D52E /* OIP.dNZYCJGxEU-ua1Us6yb-swAAAA.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "OIP.dNZYCJGxEU-ua1Us6yb-swAAAA.jpeg"; sourceTree = "<group>"; };
+		CE1C04262BCCA55F0068D52E /* OIP.ebkgTVWEs4KvqouyecxCngDxEs.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = OIP.ebkgTVWEs4KvqouyecxCngDxEs.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +114,7 @@
 		CE1C03F72BCB12500068D52E /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				CE1C04212BCCA5410068D52E /* Zara */,
 				CE1C04092BCB5B520068D52E /* TH-boutique-Santa-Fe-1-scaled-1.jpg */,
 				CE1C04052BCB54C10068D52E /* R.b7999ad1b2eae2d3329f3de63e79fb4e.jpeg */,
 				CE1C04032BCB53B60068D52E /* R.10c03ab48796bb93e94caab6e5bfc564.jpeg */,
@@ -135,6 +146,8 @@
 			children = (
 				CE1C03E72BCB12300068D52E /* ViewController.swift */,
 				CE1C041B2BCC6A820068D52E /* OrderViewController.swift */,
+				CE1C041D2BCC950B0068D52E /* RegisterViewController.swift */,
+				CE1C041F2BCC95200068D52E /* RecommdationViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -149,6 +162,16 @@
 				CE1C04172BCC5C6B0068D52E /* GAPViewController.swift */,
 			);
 			path = WebviewController;
+			sourceTree = "<group>";
+		};
+		CE1C04212BCCA5410068D52E /* Zara */ = {
+			isa = PBXGroup;
+			children = (
+				CE1C04262BCCA55F0068D52E /* OIP.ebkgTVWEs4KvqouyecxCngDxEs.jpeg */,
+				CE1C04242BCCA5580068D52E /* OIP.dNZYCJGxEU-ua1Us6yb-swAAAA.jpeg */,
+				CE1C04222BCCA54F0068D52E /* OIP.hrBWnxXHr6UCj4azHpTTNQDxEs.jpeg */,
+			);
+			path = Zara;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -209,12 +232,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE1C04252BCCA5580068D52E /* OIP.dNZYCJGxEU-ua1Us6yb-swAAAA.jpeg in Resources */,
 				CE1C04022BCB52E60068D52E /* zara.jpg in Resources */,
 				CE1C03F02BCB12310068D52E /* LaunchScreen.storyboard in Resources */,
 				CE1C04042BCB53B60068D52E /* R.10c03ab48796bb93e94caab6e5bfc564.jpeg in Resources */,
+				CE1C04272BCCA55F0068D52E /* OIP.ebkgTVWEs4KvqouyecxCngDxEs.jpeg in Resources */,
 				CE1C03FC2BCB3D620068D52E /* pexels-eberhard-grossgasteiger-2088170.jpg in Resources */,
 				CE1C040A2BCB5B520068D52E /* TH-boutique-Santa-Fe-1-scaled-1.jpg in Resources */,
 				CE1C03FE2BCB3E860068D52E /* pexels-eberhard-grossgasteiger-2088205.jpg in Resources */,
+				CE1C04232BCCA54F0068D52E /* OIP.hrBWnxXHr6UCj4azHpTTNQDxEs.jpeg in Resources */,
 				CE1C041A2BCC60240068D52E /* R.ddbfcd34f28ce752a774ba2ae575f9d9.jpeg in Resources */,
 				CE1C03ED2BCB12310068D52E /* Assets.xcassets in Resources */,
 				CE1C04002BCB4F6C0068D52E /* OIP.v-4U9-YEq5WfQ04HB2Zh2AHaE8.jpeg in Resources */,
@@ -231,12 +257,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE1C04162BCC5C550068D52E /* HolisterViewController.swift in Sources */,
+				CE1C041E2BCC950B0068D52E /* RegisterViewController.swift in Sources */,
 				CE1C03E82BCB12300068D52E /* ViewController.swift in Sources */,
 				CE1C03E42BCB12300068D52E /* AppDelegate.swift in Sources */,
 				CE1C03E62BCB12300068D52E /* SceneDelegate.swift in Sources */,
 				CE1C040F2BCC54FA0068D52E /* WebViewController.swift in Sources */,
 				CE1C04182BCC5C6B0068D52E /* GAPViewController.swift in Sources */,
 				CE1C04122BCC5AFD0068D52E /* LevisViewController.swift in Sources */,
+				CE1C04202BCC95200068D52E /* RecommdationViewController.swift in Sources */,
 				CE1C04142BCC5C350068D52E /* THViewController.swift in Sources */,
 				CE1C041C2BCC6A820068D52E /* OrderViewController.swift in Sources */,
 			);

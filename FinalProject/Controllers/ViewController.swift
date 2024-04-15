@@ -9,16 +9,28 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBAction func unwindToViewController(segue: UIStoryboardSegue) {
-        print("Unwind to View Controller")
-    }
     
     
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
+    
+        
+        func performSegue(withIdentifier:  RegisterViewController){}
+        
+        @IBAction func back(sender: UIStoryboardSegue) {}
+
+        @IBOutlet var txEmail: UITextField!
+        @IBOutlet var txPassword: UITextField!
+        @IBOutlet var LoginButton: UIButton!
+        @IBOutlet var RegisterButton: UIButton!
+
+
+        
+ 
+
+        override func viewDidLoad() {
+            super.viewDidLoad()
+            // Do any additional setup after loading the view.
+        }
 
 
 }
